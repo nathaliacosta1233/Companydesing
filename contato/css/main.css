@@ -1,0 +1,233 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v205_78 {
+  width: 100%;
+  height: 1025px;
+  background: url("../images/v205_78.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v205_70 {
+  width: 100%;
+  height: 100%;
+  background: url("../images/v205_70.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v205_71 {
+  width: 600px;
+  height: 178px;
+  background: url("../images/v205_71.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 44px;
+  overflow: hidden;
+}
+
+.v205_33 {
+  width: 124px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 555px;
+  left: 42px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v205_34 {
+  width: 98px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 477px;
+  left: 44px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v205_37 {
+  width: 304px;
+  height: 45px;
+  opacity: 1;
+  position: absolute;
+  top: 385px;
+  left: 164px;
+  overflow: hidden;
+}
+.v205_38 {
+  width: 304px;
+  height: 42px;
+  background: rgba(217,217,217,0.6700000166893005);
+  opacity: 1;
+  position: absolute;
+  top: 480px;
+  left: 157px;
+  overflow: hidden;
+}
+.v205_36 {
+  width: 556px;
+  height: 184px;
+  background: rgba(255,255,255,0.6800000071525574);
+  opacity: 1;
+  position: absolute;
+  top: 627px;
+  left: 44px;
+  overflow: hidden;
+}
+.v205_39 {
+  width: 163px;
+  height: 67px;
+  background: rgba(1,151,219,0.7200000286102295);
+  opacity: 1;
+  position: absolute;
+  top: 894px;
+  left: 88px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  overflow: hidden;
+}
+.v205_40 {
+  width: 116px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 904px;
+  left: 106px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+.v205_24 {
+  width: 84px;
+  color: rgba(252,252,252,1);
+  position: absolute;
+  top: 43px;
+  left: 583px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v205_11 {
+  width: 201px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 43px;
+  left: 711px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v205_25 {
+  width: 123px;
+  color: url("../images/v205_25.png");
+  position: absolute;
+  top: 43px;
+  left: 956px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+  color: rgba(255,255,255,1);
+}
+.v205_23 {
+  width: 145px;
+  height: 56px;
+  background: rgba(217,217,217,0.1899999976158142);
+  opacity: 1;
+  position: absolute;
+  top: 33px;
+  left: 1107px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  overflow: hidden;
+}
+.v205_30 {
+  width: 114px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 43px;
+  left: 1123px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v205_76 {
+  width: 93px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 385px;
+  left: 42px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 30px;
+  opacity: 1;
+  text-align: left;
+}
+.v205_77 {
+  width: 258px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 265px;
+  left: 34px;
+  font-family: Inter;
+  font-weight: Regular;
+  font-size: 40px;
+  opacity: 1;
+  text-align: left;
+}
+Input {
+  width: 600px;
+  height: 500px;
+  background-color: #f2f2f2;
+  padding: 3px;
+  border: 1px solid #ccc;
+  color: #333;
+  font-size: 25PX;
+}
+button {
+  width: 163px;
+  height: 67px;
+  background: rgba(1,151,219,0.7200000286102295);
+  border-radius: 12px;
+  border: 0;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 20PX;
+  color: rgb(255, 255, 255)
+}
+
